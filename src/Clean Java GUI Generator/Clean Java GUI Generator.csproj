@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0B36E87D-8CA8-4076-9FD7-842D7D08AD12}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Clean_Java_GUI_Generator</RootNamespace>
+    <AssemblyName>Clean Java GUI Generator</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>jgg icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="about.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="about.Designer.cs">
+      <DependentUpon>about.cs</DependentUpon>
+    </Compile>
+    <Compile Include="autofill_panel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="autofill_panel.Designer.cs">
+      <DependentUpon>autofill_panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bind_data_to_obj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bind_data_to_obj.Designer.cs">
+      <DependentUpon>bind_data_to_obj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bind_element_to_panel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bind_element_to_panel.Designer.cs">
+      <DependentUpon>bind_element_to_panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bind_panel_to_obj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bind_panel_to_obj.Designer.cs">
+      <DependentUpon>bind_panel_to_obj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="colorpicked.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="colorpicked.Designer.cs">
+      <DependentUpon>colorpicked.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formcontainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formcontainer.Designer.cs">
+      <DependentUpon>formcontainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formfield_binder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formfield_binder.Designer.cs">
+      <DependentUpon>formfield_binder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gridbaglayoutmaker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gridbaglayoutmaker.Designer.cs">
+      <DependentUpon>gridbaglayoutmaker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sqlfilltable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sqlfilltable.Designer.cs">
+      <DependentUpon>sqlfilltable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sqlgenerator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sqlgenerator.Designer.cs">
+      <DependentUpon>sqlgenerator.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="about.resx">
+      <DependentUpon>about.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="autofill_panel.resx">
+      <DependentUpon>autofill_panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bind_data_to_obj.resx">
+      <DependentUpon>bind_data_to_obj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bind_element_to_panel.resx">
+      <DependentUpon>bind_element_to_panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bind_panel_to_obj.resx">
+      <DependentUpon>bind_panel_to_obj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="colorpicked.resx">
+      <DependentUpon>colorpicked.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formcontainer.resx">
+      <DependentUpon>formcontainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formfield_binder.resx">
+      <DependentUpon>formfield_binder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gridbaglayoutmaker.resx">
+      <DependentUpon>gridbaglayoutmaker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="sqlfilltable.resx">
+      <DependentUpon>sqlfilltable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sqlgenerator.resx">
+      <DependentUpon>sqlgenerator.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jgg icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="jgg icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

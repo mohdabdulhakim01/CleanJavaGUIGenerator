@@ -1,0 +1,29 @@
+C:\Users\pandaleader\AppData\Local\Temporary Projects\Clean Java GUI Generator\bin\Debug\Clean Java GUI Generator.exe.config
+C:\Users\pandaleader\AppData\Local\Temporary Projects\Clean Java GUI Generator\bin\Debug\Clean Java GUI Generator.exe
+C:\Users\pandaleader\AppData\Local\Temporary Projects\Clean Java GUI Generator\bin\Debug\Clean Java GUI Generator.pdb
+C:\Users\pandaleader\AppData\Local\Temporary Projects\Clean Java GUI Generator\obj\Debug\Clean Java GUI Generator.csprojResolveAssemblyReference.cache
+C:\Users\pandaleader\AppData\Local\Temporary Projects\Clean Java GUI Generator\obj\Debug\Clean_Java_GUI_Generator.Form1.resources
+C:\Users\pandaleader\AppData\Local\Temporary Projects\Clean Java GUI Generator\obj\Debug\Clean_Java_GUI_Generator.Properties.Resources.resources
+C:\Users\pandaleader\AppData\Local\Temporary Projects\Clean Java GUI Generator\obj\Debug\Clean Java GUI Generator.csproj.GenerateResource.Cache
+C:\Users\pandaleader\AppData\Local\Temporary Projects\Clean Java GUI Generator\obj\Debug\Clean Java GUI Generator.exe
+C:\Users\pandaleader\AppData\Local\Temporary Projects\Clean Java GUI Generator\obj\Debug\Clean Java GUI Generator.pdb
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\Clean Java GUI Generator\Clean Java GUI Generator\bin\Debug\Clean Java GUI Generator.exe.config
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\Clean Java GUI Generator\Clean Java GUI Generator\obj\Debug\Clean Java GUI Generator.exe
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\Clean Java GUI Generator\Clean Java GUI Generator\obj\Debug\Clean Java GUI Generator.pdb
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\Clean Java GUI Generator\Clean Java GUI Generator\bin\Debug\Clean Java GUI Generator.exe
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\Clean Java GUI Generator\Clean Java GUI Generator\bin\Debug\Clean Java GUI Generator.pdb
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\Clean Java GUI Generator\Clean Java GUI Generator\obj\Debug\Clean Java GUI Generator.csprojResolveAssemblyReference.cache
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\Clean Java GUI Generator\Clean Java GUI Generator\obj\Debug\Clean_Java_GUI_Generator.Form1.resources
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\Clean Java GUI Generator\Clean Java GUI Generator\obj\Debug\Clean_Java_GUI_Generator.Properties.Resources.resources
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\Clean Java GUI Generator\Clean Java GUI Generator\obj\Debug\Clean Java GUI Generator.csproj.GenerateResource.Cache
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\Clean Java GUI Generator\Clean Java GUI Generator\obj\Debug\Clean_Java_GUI_Generator.about.resources
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\Clean Java GUI Generator\Clean Java GUI Generator\obj\Debug\Clean_Java_GUI_Generator.bind_data_to_obj.resources
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\Clean Java GUI Generator\Clean Java GUI Generator\obj\Debug\Clean_Java_GUI_Generator.bind_element_to_panel.resources
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\Clean Java GUI Generator\Clean Java GUI Generator\obj\Debug\Clean_Java_GUI_Generator.bind_panel_to_obj.resources
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\Clean Java GUI Generator\Clean Java GUI Generator\obj\Debug\Clean_Java_GUI_Generator.formcontainer.resources
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\Clean Java GUI Generator\Clean Java GUI Generator\obj\Debug\Clean_Java_GUI_Generator.autofill_panel.resources
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\Clean Java GUI Generator\Clean Java GUI Generator\obj\Debug\Clean_Java_GUI_Generator.formfield_binder.resources
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\Clean Java GUI Generator\Clean Java GUI Generator\obj\Debug\Clean_Java_GUI_Generator.colorpicked.resources
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\Clean Java GUI Generator\Clean Java GUI Generator\obj\Debug\Clean_Java_GUI_Generator.gridbaglayoutmaker.resources
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\Clean Java GUI Generator\Clean Java GUI Generator\obj\Debug\Clean_Java_GUI_Generator.sqlgenerator.resources
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\Clean Java GUI Generator\Clean Java GUI Generator\obj\Debug\Clean_Java_GUI_Generator.sqlfilltable.resources
